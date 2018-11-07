@@ -1,0 +1,2 @@
+# directsafelinkku
+javascript file
